@@ -20,6 +20,8 @@
 Я горжусь своими достижениями и уверен, что мой профессионализм и энтузиазм сделают меня ценным и плодотворным участником вашей команды. Буду рад обсудить возможность вступления в вашу команду и ответить на любые вопросы, которые у вас могут возникнуть.
 
 ---
-[1]: (https://шgithub.com/igorpolykov/yandex-metro-mobile-app-testing)
-[2]: (https://github.com/igorpolykov/yandex-counter-API-testing)
-[3]: (https://github.com/igorpolykov/yandex-scooter-testing)
+
+[1]: https://шgithub.com/igorpolykov/yandex-metro-mobile-app-testing
+[2]: https://github.com/igorpolykov/yandex-counter-API-testing
+[3]: https://github.com/igorpolykov/yandex-scooter-testing
+[4]: https://github.com/igorpolykov/yandex-routes-testing
