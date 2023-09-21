@@ -21,7 +21,7 @@
 
 ---
 
-[1]: https://шgithub.com/igorpolykov/yandex-metro-mobile-app-testing
+[1]: https://github.com/igorpolykov/yandex-metro-mobile-app-testing
 [2]: https://github.com/igorpolykov/yandex-counter-API-testing
 [3]: https://github.com/igorpolykov/yandex-scooter-testing
 [4]: https://github.com/igorpolykov/yandex-routes-testing
